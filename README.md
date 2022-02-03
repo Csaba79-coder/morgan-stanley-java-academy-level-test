@@ -11,8 +11,12 @@
 ## Keep in mind
 
 - You can use any resource online, but **please work individually**
-- **Don't just copy-paste** your answers and solutions, use your own words
+- **Don't just copy-paste** your answers and solutions, use your own words/code
   instead
+  
+## After you finished
+
+- Submit the link to your GitHub repository
   
 ## Task
   
