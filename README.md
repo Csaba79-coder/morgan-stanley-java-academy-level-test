@@ -1,4 +1,4 @@
-# morgan-stanley-java-academy-entrance-exam
+# Morgan Stanley Java Academy Entrance Exam
 
 ## Getting Started
 
