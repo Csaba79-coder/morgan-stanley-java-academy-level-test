@@ -1,4 +1,4 @@
-# Morgan Stanley Java Academy Entrance Exam
+# Morgan Stanley Java Academy Level Test
 
 ## Getting Started
 
